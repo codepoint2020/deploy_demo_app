@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/deploy_demo_app/static/js/main.e8a3ba38.js",
+    "static/js/592.53963040.chunk.js": "/deploy_demo_app/static/js/592.53963040.chunk.js",
+    "index.html": "/deploy_demo_app/index.html",
+    "main.e8a3ba38.js.map": "/deploy_demo_app/static/js/main.e8a3ba38.js.map",
+    "592.53963040.chunk.js.map": "/deploy_demo_app/static/js/592.53963040.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e8a3ba38.js"
+  ]
+}
